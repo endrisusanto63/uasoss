@@ -7,4 +7,4 @@
 ###               M. Alwi Adi A
 
 ### Deskripi Project
-######Project ini merupakan sebuah website yang di buat untuk melakukan pendataan barang yang ada di Toko Maju Jaya. Dengan adanya website ini di harapkan akan mempermudah dalam melakukan pekerjaan pegawai mauapun pemilik toko untuk melakukan pengecekan barang yang ada di toko.
+#####Project ini merupakan sebuah website yang di buat untuk melakukan pendataan barang yang ada di Toko Maju Jaya. Dengan adanya website ini di harapkan akan mempermudah dalam melakukan pekerjaan pegawai mauapun pemilik toko untuk melakukan pengecekan barang yang ada di toko.
