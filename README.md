@@ -4,7 +4,7 @@
 ####               Endri Susanto    (G.211.16.0014)
 ####               Alfian Prigi U   (G.211.16.0042)
 ####               Diolanda Funky A (G.211.16.0043)
-####               Anang Maulana    (G.211.16.0034)
+####               Anang Maulana    (G.211.16.0034)  https://github.com/anangmayasi/uasoss.git
 ####               M. Alwi Adi Z    (G.211.16.0099)
 
 ### Deskripi Project
